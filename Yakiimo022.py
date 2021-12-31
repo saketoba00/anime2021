@@ -16,5 +16,5 @@ class GuruGuruImo(AShape):
         self.poly.render(canvas, tick)
         self.imo.render(canvas, tick)
         
-shape = GuruGuruImo(100,100,N=7)
-IPython.display.Image(test_shape(shape))
+# shape = GuruGuruImo(100,100,N=7)
+# IPython.display.Image(test_shape(shape))
